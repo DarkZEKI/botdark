@@ -2,15 +2,15 @@ const help = () => {
 	return `
 ╔══✪〘 INFO 〙✪══
 ║
-╠OLA 
+╠Hola 
 ║
 ╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
 ╠➥ *3.2*
 ╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ *wa.me/+5521970019765*
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
-╠══✪〘 NOVIDADES 〙✪══
+╠══✪〘 NOVEDADES 〙✪══
 ║
 ║1 *${prefix}msc*
 ║2 *${prefix}Comandos de voz*
@@ -38,7 +38,7 @@ const help = () => {
 ║20 *${prefix}wait [na legenda]*
 ║21 *${prefix}setprefix*
 ║
-╠══✪〘 OUTROS 〙✪══
+╠══✪〘 OTROS 〙✪══
 ║
 ║22 *${prefix}linkgp*
 ║23 *${prefix}simih [1/0]*
@@ -73,7 +73,7 @@ const help = () => {
 ║52 *${prefix}marcar2*
 ║53 *${prefix}marcar3*
 ║
-╠══✪〘 IMAGENS 〙✪══
+╠══✪〘 IMAGENES 〙✪══
 ║
 ║54 *${prefix}loli* [off]
 ║55 *${prefix}loli1*
@@ -104,7 +104,7 @@ const help = () => {
 ║77 *${prefix}simih 0 (para desativar)*
 ║ *${prefix}simi (sua mensagem)*
 ║
-╠══✪〘 EM TESTE 〙✪══
+╠══✪〘 EN PRUEBA 〙✪══
 ║
 ║78 *${prefix}*
 ║79 *${prefix}*
@@ -149,7 +149,7 @@ const help = () => {
 ║112 *${prefix}setdesc*
 ║113 *${prefix}bug [sua mensagem]*
 ║
-╠══✪〘 ESPECIFICO DO BOT 〙✪══
+╠══✪〘 ESPECIFICO DEL BOT 〙✪══
 ║
 ║114 *${prefix}bug [sua mensagem]*
 ║115 *${prefix}clonar [@]*
@@ -164,7 +164,7 @@ const help = () => {
 ║124 *${prefix}desligar (so para o dono)*
 ║125 *${prefix}timer*
 ║
-╠══✪〘 MAIS ALGUNS 〙✪══
+╠══✪〘 MAS ALGUNS 〙✪══
 ║
 ║126 *${prefix}neko*
 ║127 *${prefix}ttp [texto]*
@@ -199,7 +199,7 @@ const help = () => {
 ║152 *${prefix}beat1*
 ║153 *${prefix}glub*
 ║
-╠══✪〘 OUTROS /2 〙✪══
+╠══✪〘 OTROS /2 〙✪══
 ║
 ║154 *${prefix}antilink [1/0]*
 ║155 *${prefix}brainly [pergunta]*
@@ -270,7 +270,7 @@ const help = () => {
 ║199 *digita*
 ║200 *machista*
 ║
-╠══✪〘 OUTROS /3 〙✪══
+╠══✪〘 OTROS /3 〙✪══
 ║
 ║201 *${prefix}atris* 🔞
 ║202 *${prefix}animemenu*
@@ -304,14 +304,14 @@ const help = () => {
 ║213 *${prefix}edit4*
 ╠═══════════════
 ║
-╠══✪〘 CONSULTAS E OUTROS 〙✪══
+╠══✪〘 CONSULTAS Y OTROS 〙✪══
 ║
 ║
 ║214 *${prefix}iplog (ip)* [consulta ip]
 ║215 *${prefix}cpfg* [bot gera cpf]
 ║216 *${prefix}bcep (cep)* [consulta cep]
 ║
-╠══✪〘 APIS DO DARK 〙✪══
+╠══✪〘 APIS DE DARK 〙✪══
 ║
 ║ *Aguarde a próxima att*
 ║
@@ -346,8 +346,8 @@ const help = () => {
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
 ║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
+║ *INSTA: *
+║ *WPP: wa.me/+5521970019765*
 ║ *YOUTUBE: https://bit.ly/3qAjeNz*
 ║
 ║  *"Peita ou respeita 🐊🚩*
